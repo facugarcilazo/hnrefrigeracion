@@ -1,6 +1,6 @@
-7*{
+*{
     margin: 0;
-    padding: 0; 
+    padding: 0;
     box-sizing: border-box;
     ;
 }
@@ -13,7 +13,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-.contenedor{ 
+.contenedor{
     width: 90%;
     max-width: 1200px;
     overflow: hidden;
@@ -112,11 +112,11 @@ header{
     width: 30%;
     align-items: center;
     display: flex;
-    
+
 }
 
 .subtitulo {
-    
+
     font-weight: 400;
     margin: 40px 110px 40px 110px;
     text-align: center;
@@ -151,7 +151,7 @@ header{
 
 .number{
     display: inline-block;
-    background-image:linear-gradient(to top, #00c6fb 0%, #005bea 100%); 
+    background-image:linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     width: 30px;
     height: 30px;
     color:white;
@@ -237,7 +237,7 @@ padding-bottom: 0.1px;
     font-size: 30px;
     color: #f2f2f2;
     position: relative;
-    
+
 }
 
 
@@ -288,7 +288,6 @@ padding-bottom: 0.1px;
     background-color: #f2f2f2;
     margin-bottom: 60px;
 }
-
 
 @media screen and (max-width: 800px){
     .menu{
